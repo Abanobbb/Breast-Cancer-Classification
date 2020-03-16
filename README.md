@@ -1,5 +1,4 @@
 # Breast-Cancer-Classification
-
 Predicting if the cancer diagnosis is benign or malignant based on several observations/features
 30 features are used, examples:
   - radius (mean of distances from center to points on the perimeter)
@@ -18,6 +17,5 @@ Class Distribution: 212 Malignant, 357 Benign
 
 Target class:
    - Malignant
-   - Benign 
-   
+   - Benign  
 [Data]: (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
