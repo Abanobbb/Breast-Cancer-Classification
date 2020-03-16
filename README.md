@@ -14,10 +14,10 @@ Predicting if the cancer diagnosis is benign or malignant based on several obser
   - symmetry 
   - fractal dimension ("coastline approximation" - 1)
 
-
 Number of Instances: 569
 Class Distribution: 212 Malignant, 357 Benign
 Target class:
    - Malignant
    - Benign
+   
 [Data]: (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
