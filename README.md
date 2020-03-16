@@ -15,7 +15,9 @@ Predicting if the cancer diagnosis is benign or malignant based on several obser
   
 Number of Instances: 569
 Class Distribution: 212 Malignant, 357 Benign
+
 Target class:
    - Malignant
-   - Benign   
+   - Benign 
+   
 [Data]: (https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic))
